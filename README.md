@@ -1,4 +1,4 @@
-# 🚀 CI/CD NextApp - Monorepo
+# 🚀 CI/CD NextApp - Monorepo!
 
 <div align="center">
   <h3>Production-ready Next.js monorepo with automated CI/CD pipeline using Turborepo</h3>
