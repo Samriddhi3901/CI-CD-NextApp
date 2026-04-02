@@ -1,7 +1,7 @@
 # 🚀 CI/CD NextApp : Monorepo
 <div align="center">
   <h3>Production-ready Next.js monorepo with automated CI/CD pipeline using Turborepo</h3>
-  
+
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
