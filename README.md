@@ -31,7 +31,7 @@ CI/CD NextApp is a modern, enterprise-grade monorepo built with Turborepo that d
 - **Parallel Builds** - Concurrent processing of multiple apps
 - **Remote Caching** - Shared build cache across team and CI/CD
 - **Automated Testing** - Unit, integration, and E2E testing
-- **Code Quality** - ESLint, Prettier, and TypeScript checks
+- **Code Quality** - ESLint, Prettier, and TypeScript checks!
 
 ### 📦 **Package Management**
 - **PNPM Workspaces** - Efficient dependency management
